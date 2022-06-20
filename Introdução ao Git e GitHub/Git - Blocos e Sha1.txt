@@ -1,0 +1,4 @@
+sha1 - encripta mensagens. 
+blob - objeto usado no Git ( Para armazenar mensagens).
+tree - segundo objetivo , pode apontar para outras tree e blobs.
+commit - objeto de maior hierarquia aponta para tree e o ultimo commit.

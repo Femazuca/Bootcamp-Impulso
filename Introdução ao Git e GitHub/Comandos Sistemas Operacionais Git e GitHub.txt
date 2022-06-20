@@ -1,0 +1,38 @@
+Comandos para Prompt de Comando
+
+dir - listar pastas
+cd - entrar em uma pasta especifica (Ex : cd Windows)
+clear - limpar as informações
+atalho (tab) - completa informações
+cd .. - sai de uma pasta 
+mkdir - cria uma pasta
+echo - printa devolta no terminal uma frase ou um texto
+> - redirecionador de fluxo(joga em um arquivo a mensagem)
+del - deleta uma informação dentro de um repositorio
+setinha pra cima - navegar entre os historicos de comandos desse terminal
+rmdir - remove o repositorio
+mv - comando pra mover o arquivo
+
+
+flags (-a) = mostra arquivos ocultos
+flags (-m) = passa uma mensagem
+git config --global user.email = usa pra configurar o email global
+git config --global user.name = usa pra configurar um username global
+git config --list = lista de todas as informações que estão no seu git
+git config --list --unset = troca as informações
+
+Arquivo Mackdown = .mt (hierarquia feita atravez de # sendo - # = hierarquia maior e ## = hierarquia menor que a primeira.
+
+git init =  criar um repositorio.
+git add = serve pra mover o repositorio de Untracked(adiciona o arquivo) pra Staged(se preparando pra fazer um commit)
+git add * = coloca todos os arquivos em preparação pra commit
+git commit = salva os arquivos e cria uma criptocrafia e volta o arquivo pra Unmodified
+git status = fala do status dos arquivos
+git remote add origin = usado para criar um repositorio remoto
+git push origin master = usado para "empurrar" o repositorio local para o remoto(GitHub)
+git clone = pegar um repositorio do GitHub e cloná-lo
+git pull origin master = puxar os arquivos novos pro repositorio
+
+
+
+
